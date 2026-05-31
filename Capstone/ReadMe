@@ -1,1 +1,103 @@
+# Portfolio Health & Reporting Architecture
+A Data Analytics Capstone
 
+📌 Overview
+This project is a prototype of a bank‑grade portfolio reporting system.
+It demonstrates how a financial institution can structure, calculate, and communicate the health of its loan portfolio using clean data models, transparent SQL, and executive‑ready visuals.
+
+The goal: show end‑to‑end thinking — from raw data to insight.
+
+📂 What’s Included
+Data Model — normalized tables and analytical views
+
+SQL Logic — modular, documented queries for every metric
+
+Portfolio Health Metrics — composition, risk, concentrations, profitability
+
+Officer Scorecard — production, quality, risk, and relationship value
+
+Dashboards — executive‑grade Tableau visuals
+
+Documentation — definitions, lineage, and governance
+
+🎯 Key Features
+1. Portfolio Composition
+Loan counts, balances, exposure
+
+Product, industry, and officer segmentation
+
+Growth and runoff trends
+
+2. Risk & Migration
+Rating distribution
+
+Year‑over‑year movement
+
+Early‑warning indicators
+
+3. Concentration Analysis
+Industry
+
+Geography
+
+Officer
+
+Product
+
+4. Profitability
+FTP allocation
+
+RAROC
+
+Relationship‑level contribution
+
+5. Officer Scorecard
+Production metrics
+
+Portfolio quality
+
+Risk management
+
+Profitability impact
+
+🧱 Data Architecture
+Designed for clarity and auditability:
+
+Staging → Clean → Analytical Views
+
+Consistent naming conventions
+
+Transparent calculation logic
+
+Reusable components for future reporting
+
+🛠️ Tech Stack
+SQL
+
+Python (optional scoring logic)
+
+Tableau
+
+GitHub
+
+📊 Dashboards
+Dashboards emphasize:
+
+Executive‑level clarity
+
+Minimalist design
+
+Consistent formatting
+
+Actionable insights
+
+🚀 Outcome
+This capstone demonstrates:
+
+Strong SQL engineering
+
+Banking domain fluency
+
+Scalable reporting design
+
+Executive‑ready communication
